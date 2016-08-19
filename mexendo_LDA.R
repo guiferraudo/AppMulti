@@ -1,3 +1,4 @@
+#carregando o pacote
 require(MASS)
 
 #tornar MANOVA e LDA genericas
