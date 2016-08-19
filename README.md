@@ -1,2 +1,2 @@
 # AppMulti
-R Shiny app for multivariate analysis developed for my fahehr
+R Shiny app for multivariate analysis (Hierarchical cluster, K-means, PCA, EFA, CA, MANOVA and LDA)
